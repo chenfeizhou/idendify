@@ -1,11 +1,11 @@
 {
    "name": "jsoner/idcard-idendify",
    "description": "身份证识别",
-   "authors": [
+   "authors": [{
       "name": "chenfeizhou",
       "email": "1114526565@qq.com"
-   ],
-   “require”:{
+   }],
+   "require":{
      "php": ">=7.0.0",
      "illuminate/support": "5.*",
      "illuminate/config" :"5.*",
