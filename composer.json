@@ -1,0 +1,19 @@
+{
+   "name": "jsoner/idcard-idendify",
+   "description": "身份证识别",
+   "authors": [
+      "name": "chenfeizhou",
+      "email": "1114526565@qq.com"
+   ],
+   “require”:{
+     "php": ">=7.0.0",
+     "illuminate/support": "5.*",
+     "illuminate/config" :"5.*",
+     "curl/curl":"1.2.*"
+   },
+   "autoload": {
+        "psr-4": {
+            "Identify\\IdCard\\": "src/"
+        }
+    }
+}
